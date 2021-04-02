@@ -16,7 +16,7 @@ const ManageItems = () => {
     }, [products])
 
     return (
-        <div style={{ height:'1300px', width:'100%', backgroundColor:'powderblue'}}>
+        <div style={{ height:'1450px', width:'100%', backgroundColor:'powderblue'}}>
             <div class="ms-5">
                 <nav className="d-flex navbar navbar-expand-lg">
                     <div style={{ marginTop: '30px' }} className="container-fluid">
